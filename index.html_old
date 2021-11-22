@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>NeuroStartUp</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.minasdas.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -25,7 +25,7 @@
     <div class="description-container container">
         <div class="row">
             <h2 class="col-8 mx-auto text-center">Новейшая технология сбора и анализа данных о компаниях в сети
-                Интернет</h2>
+                sdИнтернет</h2>
         </div>
     </div>
 </section>
